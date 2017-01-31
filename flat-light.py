@@ -3,7 +3,7 @@ class Color(DefaultColor):
     USERNAME_BG = 15
     USERNAME_ROOT_BG = 1
 
-    HOSTNAME_FG = 0
+    HOSTNAME_FG = 15
     HOSTNAME_BG = 14
 
     HOME_SPECIAL_DISPLAY = False
@@ -23,7 +23,7 @@ class Color(DefaultColor):
     JOBS_FG = 0
     JOBS_BG = 8
 
-    CMD_PASSED_FG = 0
+    CMD_PASSED_FG = 15
     CMD_PASSED_BG = 14
     CMD_FAILED_FG = 1
     CMD_FAILED_BG = 15
